@@ -6,7 +6,7 @@ module.exports = {
       summary: `who live in the UK, love to travel and are currently converting VW T5 into a campervan.`,
     },
     description: `Our journey through a camper conversion and living with it.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: ``,
     social: {
       twitter: `van.euphoriaa`,
     },
