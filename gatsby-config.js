@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Euphoria Van`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Remy + Jess`,
+      summary: `who live in the UK, love to travel and are currently converting VW T5 into a campervan.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Our journey through a camper conversion and living with it.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `van.euphoriaa`,
     },
   },
   plugins: [
